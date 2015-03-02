@@ -1,0 +1,24 @@
+{
+  "name": "promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise1.js",
+  "dependencies": {
+    "q": "^1.2.0",
+    "q-io": "^1.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaosamouco/promise-it-wont-hurt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaosamouco/promise-it-wont-hurt/issues"
+  },
+  "homepage": "https://github.com/joaosamouco/promise-it-wont-hurt"
+}
