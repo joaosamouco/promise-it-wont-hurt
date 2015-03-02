@@ -4,6 +4,7 @@
   "description": "",
   "main": "exercise1.js",
   "dependencies": {
+    "lodash": "^3.3.1",
     "q": "^1.2.0",
     "q-io": "^1.11.6"
   },
